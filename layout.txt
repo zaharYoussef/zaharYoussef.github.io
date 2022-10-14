@@ -1,1 +1,18 @@
 Website Layout content file
+
+1- Welcome
+My name is Youssef Zahar.
+I am a senior student at the University of Minnesota Twin-Cities majoring in Computer science and minoring in Mathematics
+I am enrolled in the Bachelor/Master Intergrated Program
+I will get my undergraduate degree Spring 2024
+I am on track to get my graduate degree Spring 2024
+
+Some of my hobbies are:
+
+
+
+2- Experience
+
+3- Course work
+
+4- Social 
