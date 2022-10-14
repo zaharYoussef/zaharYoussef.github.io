@@ -1,1 +1,50 @@
 Website Layout content file
+
+1- Welcome
+My name is Youssef Zahar.
+I am a senior student at the University of Minnesota Twin-Cities majoring in Computer science and minoring in Mathematics
+I am enrolled in the Bachelor/Master Intergrated Program
+I will get my undergraduate degree Spring 2024
+I am on track to get my graduate degree Spring 2024
+This website is a representation of my resume. 
+
+Some of my hobbies are:
+    - Practicing martial arts (especially boxing)
+    - Watching movies
+    - Playing music
+    - Learning new technologies and skills (this is the reason why I made this website)
+
+
+2- Work Experience
+
+    Keys cafe:
+        Train new hires and collaboratively work as part of a large energetic team.
+        Supervise front of the house staff and provide assistance, as needed.
+        Ensure optimal guest experience by explaining the menu, recommending drink/food items, and always having a positive attitude.
+        Respond to complaints and take any necessary actions to ensure a positive guest service and experience. 
+        Memorize changing menus and recipes to efficiently help customers with dietary restrictions.
+
+    Optum: Back-end software engineer
+        Worked on building a reliable and easy-to-maintain microservice using Java that can sustain a large volume of data flowing through.
+        Worked in a team of 5 interns under the supervision of a senior software engineer.
+        Used Agile to organize our work and progress.
+        Used a CI/CD approach to test our work development throughout the different stages.
+        Participated in bi-weekly shark tank presentations where we showcased our work and progress.
+
+    Optum: Back-end software engineer
+        Worked on creating/improving de-identification algorithms from scratch using Java.
+        Worked with a team of 4 interns under the supervision of a senior software architect. 
+        Used Agile to organize our work and progress.
+        Participated in bi-weekly shark tank presentations where we showcased our work and progress.
+
+3- Course work
+    relevant courses:
+
+    
+    Projects:
+
+
+
+4- Social 
+    LinkedIn
+    
