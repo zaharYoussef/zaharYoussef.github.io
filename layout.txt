@@ -2,10 +2,10 @@ Website Layout content file
 
 1- Welcome
 My name is Youssef Zahar.
-I am a senior student at the University of Minnesota Twin-Cities majoring in Computer science and minoring in Mathematics
-I am enrolled in the Bachelor/Master Intergrated Program
-I will get my undergraduate degree Spring 2024
-I am on track to get my graduate degree Spring 2024
+I am a graduate student at the University of Minnesota Twin-Cities majoring in Computer science.
+I am interested in software engineering and machine Learning.
+I am currently part of the Software Engineering Lab at the university of Minnesota where I am doing research on machine learning models testing and verification
+I recently completed my undergraduate degree where I majored in Computer science and minored in Mathematics
 This website is a representation of my resume. 
 
 Some of my hobbies are:
@@ -16,6 +16,12 @@ Some of my hobbies are:
 
 
 2- Work Experience
+    Optum: Data Engineer
+        Working on building a robust ETL solution to seamlessly transfer data from a cloud-based data platform to an on-premises database.
+        Creating schemas for efficient table management within the backend system.
+        Building insightful analytic reports using Power BI.
+        Use Agile to organize our work and progress.
+        Participating in shark tank presentations where we showcase our work and progress.
 
     Keys cafe:
         Train new hires and collaboratively work as part of a large energetic team.
