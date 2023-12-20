@@ -1,0 +1,42 @@
+/* components/ExperienceEntry.module.css */
+
+.experienceEntry {
+    display: flex;
+    margin-bottom: 5em;
+    margin-left: 5%;
+}
+  
+  .bubble {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #3498db; /* You can customize the bubble color */
+    margin-right: 20px;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  .company {
+    font-weight: bold;
+  }
+  
+  .date {
+    color: #555;
+  }
+  
+  .location {
+    color: #888;
+  }
+  
+  .description {
+    margin-top: 8px;
+  }
+  
+  .skills {
+    margin-top: 8px;
+    font-style: italic;
+    color: #555;
+  }
+  
