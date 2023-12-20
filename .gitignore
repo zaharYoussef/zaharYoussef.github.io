@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Next.js build directory
+.next/
+
+# IDE files
+.DS_Store
+.vscode/
